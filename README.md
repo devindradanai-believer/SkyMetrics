@@ -1,6 +1,6 @@
 # SkyMetrics - Aircraft Performance Analysis Tool
 
-Web link: https://skymetrics.streamlit.app/
+Web link: https://skymetrics-.streamlit.app/
 
 SkyMetrics is a desktop application for interactive aircraft
 performance calculations: air density, dynamic pressure, lift, drag,
