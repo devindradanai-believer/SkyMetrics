@@ -1,4 +1,4 @@
-# SkyMetrics — Aircraft Performance Analysis Tool
+# SkyMetrics - Aircraft Performance Analysis Tool
 
 [![Tests](https://github.com/devindradanai-believer/SkyMetrics/actions/workflows/tests.yml/badge.svg)](https://github.com/devindradanai-believer/SkyMetrics/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
